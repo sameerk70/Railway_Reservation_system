@@ -1,0 +1,20 @@
+[
+    {
+        "user_id": 1,
+        "name": "sameer",
+        "age": 21,
+        "gender": "male",
+        "phone": "7055575705",
+        "email": "sameerk7055@gmail.com",
+        "password": "Sameer@123#"
+    },
+    {
+        "user_id": 2,
+        "name": "Aman",
+        "age": 23,
+        "gender": "Male",
+        "phone": "7248046939",
+        "email": "aman@gmail.com",
+        "password": "Aman@123#"
+    }
+]

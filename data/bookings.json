@@ -1,0 +1,26 @@
+[
+    {
+        "pnr": "0D4D6803",
+        "user_id": 1,
+        "train_no": "12365",
+        "passenger_name": "samar",
+        "age": 18,
+        "gender": "male",
+        "journey_date": "2026-08-15",
+        "seat_no": "S1",
+        "fare": 1200.0,
+        "status": "Confirmed"
+    },
+    {
+        "pnr": "31D77A2A",
+        "user_id": 2,
+        "train_no": "12904",
+        "passenger_name": "Aman",
+        "age": 25,
+        "gender": "Male",
+        "journey_date": "2026-09-27",
+        "seat_no": "S41",
+        "fare": 1500.0,
+        "status": "Confirmed"
+    }
+]

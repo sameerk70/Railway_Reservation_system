@@ -1,0 +1,46 @@
+[
+    {
+        "train_no": "12365",
+        "train_name": "rajdhani ",
+        "source": "delhi",
+        "destination": "lucknow",
+        "departure_time": "08:12",
+        "arrival_time": "12:00",
+        "total_seats": 100,
+        "available_seats": 99,
+        "fare": 1200.0
+    },
+    {
+        "train_no": "14303",
+        "train_name": "Delhi-Haridwar express",
+        "source": "Delhi",
+        "destination": "Haridwar",
+        "departure_time": "6:00",
+        "arrival_time": "11:21",
+        "total_seats": 50,
+        "available_seats": 45,
+        "fare": 350.0
+    },
+    {
+        "train_no": "19031",
+        "train_name": "Yoga Express",
+        "source": "Meerut",
+        "destination": "Muzaffarnagar",
+        "departure_time": "7:30",
+        "arrival_time": "8:43",
+        "total_seats": 70,
+        "available_seats": 29,
+        "fare": 180.0
+    },
+    {
+        "train_no": "12904",
+        "train_name": "Golden Temple Mail",
+        "source": "DELHI",
+        "destination": "Mumbai Bandra",
+        "departure_time": "10:00",
+        "arrival_time": "11:29",
+        "total_seats": 120,
+        "available_seats": 79,
+        "fare": 1500.0
+    }
+]
